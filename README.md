@@ -1,17 +1,17 @@
 # Tankutz2D-privacy-policy
 This is the privacy policy for my Tankutz2D game
 
-Privacy Policy for [Your Game Name]
+Privacy Policy for Tankutz 2D
 
-Last Updated: [DATE]
+Last Updated: 18.06.2026
 
 *Privacy Policy*
 
-Thank you for playing [Your Game Name] ("the Game"). This Privacy Policy explains how information is collected, used, and disclosed when you use the Game.
+Thank you for playing Tankutz 2D. This Privacy Policy explains how information is collected, used, and disclosed when you use the Game.
 
 By using the Game, you agree to the practices described in this Privacy Policy.
 
-*Information We Collect*
+****Information We Collect****
 *Game Save Data*
 
 The Game stores gameplay-related information locally on your device, including:
