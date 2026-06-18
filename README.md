@@ -12,13 +12,17 @@ Thank you for playing Tankutz 2D. This Privacy Policy explains how information i
 By using the Game, you agree to the practices described in this Privacy Policy.
 
 ****Information We Collect****
+
 *Game Save Data*
 
 The Game stores gameplay-related information locally on your device, including:
 
 -High scores
+
 -In-game currency (such as coins or money)
+
 -Game progress
+
 -Game settings and preferences
 
 This information is stored solely to provide the Game's functionality and maintain your progress. This data remains on your device unless removed by uninstalling the Game or clearing the app's data.
@@ -29,11 +33,17 @@ The Game displays rewarded advertisements through the LevelPlay mediation platfo
 Advertising partners may automatically collect certain information, including:
 
 -Device identifiers (such as Android Advertising ID)
+
 -IP address
+
 -Device type and model
+
 -Operating system information
+
 -Language settings
+
 -General location information derived from IP address
+
 -Ad interaction information
 
 This information is used to provide, personalize (where permitted), measure, and improve advertising services.
@@ -43,9 +53,13 @@ This information is used to provide, personalize (where permitted), measure, and
 We use information to:
 
 -Save and restore game progress
+
 -Maintain high scores and in-game currency
+
 -Provide rewarded advertisements
+
 -Improve game performance and stability
+
 -Prevent fraud and abuse
 
 *Third-Party Services*
@@ -55,6 +69,7 @@ These services may collect and process data according to their own privacy polic
 Relevant privacy policies include:
 
 -[LevelPlay / Unity Privacy Policy](https://unity.com/legal/privacy-policy?utm_source=chatgpt.com)
+
 -[ironSource Privacy Policy](https://developers.is.com/ironsource-mobile/general/making-your-ironsource-integration-gdpr-compliant/?utm_source=chatgpt.com)
 
 Additional advertising partners may be used through the LevelPlay mediation platform. Such partners process data according to their respective privacy policies.
@@ -65,7 +80,9 @@ If you are located in the European Economic Area (EEA), United Kingdom, or Switz
 You may be presented with a consent message that allows you to:
 
 -Accept personalized advertising
+
 -Reject personalized advertising
+
 -Manage your privacy preferences
 
 Your choices may affect the types of advertisements shown within the Game.
@@ -91,8 +108,11 @@ We do not knowingly collect personal information from children under 13. If you 
 Depending on your country or region, you may have rights regarding your personal data, including:
 
 -Access to information about collected data
+
 -Request deletion of personal data held by advertising partners
+
 -Object to certain processing activities
+
 -Withdraw consent where consent is required
 
 You may also reset or limit your Android Advertising ID through your device settings.
@@ -111,4 +131,5 @@ Users are encouraged to review this Privacy Policy periodically.
 If you have questions about this Privacy Policy, please contact:
 
 Developer: ZackRzv
+
 Email: razvan.zck25@gmail.com
